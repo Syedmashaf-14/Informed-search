@@ -24,5 +24,3 @@ Generate random mazes with specified obstacle density.
 1. Ensure you have **Python 3.8+** installed.
 2. Install required libraries (only Tkinter is needed; it comes pre-installed with Python):
 pip install tk
-git clone https://github.com/yourusername/pathfinding-agent.git
-cd pathfinding-agent
